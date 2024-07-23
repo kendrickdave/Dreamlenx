@@ -180,7 +180,7 @@ button a{
   }
   #menulist{
     overflow: hidden;
-    transition: 2s;
+    transition: 0.5s;
   }
 
   .slideshow-container img{
@@ -198,6 +198,7 @@ button a{
     text-align: center;
   }
   #explore{
+    top: 70%;
     font-size: 15px;
     font-weight: 900px;
   }
