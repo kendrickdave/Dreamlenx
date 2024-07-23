@@ -192,13 +192,13 @@ button a{
     position: absolute;
     top: 40%;
     width: 250px;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 900px;
     color:white;
     text-align: center;
   }
   #explore{
-    top: 70%;
+    bottom:70%;
     font-size: 15px;
     font-weight: 900px;
   }
